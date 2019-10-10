@@ -1,3 +1,4 @@
+
 # Building a Simple Chatbot from Scratch in Python (using NLTK)
 
 ![Alt text](https://cdn-images-1.medium.com/max/800/1*pPcVfZ7i-gLMabUol3zezA.gif)
@@ -50,3 +51,5 @@ You can run the [chatbot.ipynb](https://github.com/parulnith/Building-a-Simple-C
 ```
 python chatbot.py
 ```
+
+Run the file chatbot.py to get information about chatbot or Eagle website
